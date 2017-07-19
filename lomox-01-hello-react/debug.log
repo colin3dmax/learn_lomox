@@ -1,0 +1,210 @@
+[0719/152601.835:ERROR:icu_util.cc(178)] Invalid file descriptor to ICU data received.
+[0719/152601.835:FATAL:icu_util.cc(297)] Check failed: result. 
+Backtrace:
+	GetHandleVerifier [0x6C9BA3D7+98839]
+	QWebEngineUrlSchemeHandler::qt_static_metacall [0x6C968AE7+4583]
+	GetHandleVerifier [0x6CC2F17D+2674621]
+	QWebEngineUrlRequestJob::qt_static_metacall [0x6C9539A3+3670595]
+	QtWebEngineCore::WebContentsAdapter::webContents [0x6C4322F3+14499]
+	QtWebEngineCore::WebContentsAdapter::webContents [0x6C4325AB+15195]
+	QtWebEngineCore::BrowserContextAdapter::defaultContext [0x6C3F16AF+15]
+	QWebEngineProfile::defaultProfile [0x71CFA7A3+83]
+	LomoxAppRun [0x74903855+21]
+	(No symbol) [0x0111100F]
+	(No symbol) [0x011111DE]
+	BaseThreadInitThunk [0x75F233CA+18]
+	RtlInitializeExceptionChain [0x77CA9ED2+99]
+	RtlInitializeExceptionChain [0x77CA9EA5+54]
+
+[0719/152606.359:ERROR:icu_util.cc(178)] Invalid file descriptor to ICU data received.
+[0719/152606.359:FATAL:icu_util.cc(297)] Check failed: result. 
+Backtrace:
+	GetHandleVerifier [0x6FBAA3D7+98839]
+	QWebEngineUrlSchemeHandler::qt_static_metacall [0x6FB58AE7+4583]
+	GetHandleVerifier [0x6FE1F17D+2674621]
+	QWebEngineUrlRequestJob::qt_static_metacall [0x6FB439A3+3670595]
+	QtWebEngineCore::WebContentsAdapter::webContents [0x6F6222F3+14499]
+	QtWebEngineCore::WebContentsAdapter::webContents [0x6F6225AB+15195]
+	QtWebEngineCore::BrowserContextAdapter::defaultContext [0x6F5E16AF+15]
+	QWebEngineProfile::defaultProfile [0x6EB0A7A3+83]
+	LomoxAppRun [0x748D3855+21]
+	(No symbol) [0x0111100F]
+	(No symbol) [0x011111DE]
+	BaseThreadInitThunk [0x75F233CA+18]
+	RtlInitializeExceptionChain [0x77CA9ED2+99]
+	RtlInitializeExceptionChain [0x77CA9EA5+54]
+
+[0719/153133.559:ERROR:icu_util.cc(178)] Invalid file descriptor to ICU data received.
+[0719/153133.559:FATAL:icu_util.cc(297)] Check failed: result. 
+Backtrace:
+	GetHandleVerifier [0x6FBAA3D7+98839]
+	QWebEngineUrlSchemeHandler::qt_static_metacall [0x6FB58AE7+4583]
+	GetHandleVerifier [0x6FE1F17D+2674621]
+	QWebEngineUrlRequestJob::qt_static_metacall [0x6FB439A3+3670595]
+	QtWebEngineCore::WebContentsAdapter::webContents [0x6F6222F3+14499]
+	QtWebEngineCore::WebContentsAdapter::webContents [0x6F6225AB+15195]
+	QtWebEngineCore::BrowserContextAdapter::defaultContext [0x6F5E16AF+15]
+	QWebEngineProfile::defaultProfile [0x6EB0A7A3+83]
+	LomoxAppRun [0x748D3855+21]
+	(No symbol) [0x013B100F]
+	(No symbol) [0x013B11DE]
+	BaseThreadInitThunk [0x75F233CA+18]
+	RtlInitializeExceptionChain [0x77CA9ED2+99]
+	RtlInitializeExceptionChain [0x77CA9EA5+54]
+
+[0719/153248.127:ERROR:icu_util.cc(178)] Invalid file descriptor to ICU data received.
+[0719/153248.127:FATAL:icu_util.cc(297)] Check failed: result. 
+Backtrace:
+	GetHandleVerifier [0x6C9BA3D7+98839]
+	QWebEngineUrlSchemeHandler::qt_static_metacall [0x6C968AE7+4583]
+	GetHandleVerifier [0x6CC2F17D+2674621]
+	QWebEngineUrlRequestJob::qt_static_metacall [0x6C9539A3+3670595]
+	QtWebEngineCore::WebContentsAdapter::webContents [0x6C4322F3+14499]
+	QtWebEngineCore::WebContentsAdapter::webContents [0x6C4325AB+15195]
+	QtWebEngineCore::BrowserContextAdapter::defaultContext [0x6C3F16AF+15]
+	QWebEngineProfile::defaultProfile [0x71CFA7A3+83]
+	LomoxAppRun [0x74903855+21]
+	(No symbol) [0x002C100F]
+	(No symbol) [0x002C11DE]
+	BaseThreadInitThunk [0x75F233CA+18]
+	RtlInitializeExceptionChain [0x77CA9ED2+99]
+	RtlInitializeExceptionChain [0x77CA9EA5+54]
+
+[0719/153251.824:ERROR:icu_util.cc(178)] Invalid file descriptor to ICU data received.
+[0719/153251.824:FATAL:icu_util.cc(297)] Check failed: result. 
+Backtrace:
+	GetHandleVerifier [0x6FBAA3D7+98839]
+	QWebEngineUrlSchemeHandler::qt_static_metacall [0x6FB58AE7+4583]
+	GetHandleVerifier [0x6FE1F17D+2674621]
+	QWebEngineUrlRequestJob::qt_static_metacall [0x6FB439A3+3670595]
+	QtWebEngineCore::WebContentsAdapter::webContents [0x6F6222F3+14499]
+	QtWebEngineCore::WebContentsAdapter::webContents [0x6F6225AB+15195]
+	QtWebEngineCore::BrowserContextAdapter::defaultContext [0x6F5E16AF+15]
+	QWebEngineProfile::defaultProfile [0x6EB0A7A3+83]
+	LomoxAppRun [0x748D3855+21]
+	(No symbol) [0x00B7100F]
+	(No symbol) [0x00B711DE]
+	BaseThreadInitThunk [0x75F233CA+18]
+	RtlInitializeExceptionChain [0x77CA9ED2+99]
+	RtlInitializeExceptionChain [0x77CA9EA5+54]
+
+[0719/154914.684:ERROR:icu_util.cc(178)] Invalid file descriptor to ICU data received.
+[0719/154914.685:FATAL:icu_util.cc(297)] Check failed: result. 
+Backtrace:
+	GetHandleVerifier [0x6FD2A3D7+98839]
+	QWebEngineUrlSchemeHandler::qt_static_metacall [0x6FCD8AE7+4583]
+	GetHandleVerifier [0x6FF9F17D+2674621]
+	QWebEngineUrlRequestJob::qt_static_metacall [0x6FCC39A3+3670595]
+	QtWebEngineCore::WebContentsAdapter::webContents [0x6F7A22F3+14499]
+	QtWebEngineCore::WebContentsAdapter::webContents [0x6F7A25AB+15195]
+	QtWebEngineCore::BrowserContextAdapter::defaultContext [0x6F7616AF+15]
+	QWebEngineProfile::defaultProfile [0x6EE3A7A3+83]
+	LomoxAppRun [0x754F3855+21]
+	(No symbol) [0x0124100F]
+	(No symbol) [0x012411DE]
+	BaseThreadInitThunk [0x75F233CA+18]
+	RtlInitializeExceptionChain [0x77CA9ED2+99]
+	RtlInitializeExceptionChain [0x77CA9EA5+54]
+
+[0719/154922.645:ERROR:icu_util.cc(178)] Invalid file descriptor to ICU data received.
+[0719/154922.645:FATAL:icu_util.cc(297)] Check failed: result. 
+Backtrace:
+	GetHandleVerifier [0x6FB6A3D7+98839]
+	QWebEngineUrlSchemeHandler::qt_static_metacall [0x6FB18AE7+4583]
+	GetHandleVerifier [0x6FDDF17D+2674621]
+	QWebEngineUrlRequestJob::qt_static_metacall [0x6FB039A3+3670595]
+	QtWebEngineCore::WebContentsAdapter::webContents [0x6F5E22F3+14499]
+	QtWebEngineCore::WebContentsAdapter::webContents [0x6F5E25AB+15195]
+	QtWebEngineCore::BrowserContextAdapter::defaultContext [0x6F5A16AF+15]
+	QWebEngineProfile::defaultProfile [0x6EE6A7A3+83]
+	LomoxAppRun [0x75423855+21]
+	(No symbol) [0x00BE100F]
+	(No symbol) [0x00BE11DE]
+	BaseThreadInitThunk [0x75F233CA+18]
+	RtlInitializeExceptionChain [0x77CA9ED2+99]
+	RtlInitializeExceptionChain [0x77CA9EA5+54]
+
+[0719/155008.568:ERROR:icu_util.cc(178)] Invalid file descriptor to ICU data received.
+[0719/155008.568:FATAL:icu_util.cc(297)] Check failed: result. 
+Backtrace:
+	GetHandleVerifier [0x6FD2A3D7+98839]
+	QWebEngineUrlSchemeHandler::qt_static_metacall [0x6FCD8AE7+4583]
+	GetHandleVerifier [0x6FF9F17D+2674621]
+	QWebEngineUrlRequestJob::qt_static_metacall [0x6FCC39A3+3670595]
+	QtWebEngineCore::WebContentsAdapter::webContents [0x6F7A22F3+14499]
+	QtWebEngineCore::WebContentsAdapter::webContents [0x6F7A25AB+15195]
+	QtWebEngineCore::BrowserContextAdapter::defaultContext [0x6F7616AF+15]
+	QWebEngineProfile::defaultProfile [0x6EE3A7A3+83]
+	LomoxAppRun [0x754F3855+21]
+	(No symbol) [0x0012100F]
+	(No symbol) [0x001211DE]
+	BaseThreadInitThunk [0x75F233CA+18]
+	RtlInitializeExceptionChain [0x77CA9ED2+99]
+	RtlInitializeExceptionChain [0x77CA9EA5+54]
+
+[0719/155230.710:ERROR:icu_util.cc(178)] Invalid file descriptor to ICU data received.
+[0719/155230.710:FATAL:icu_util.cc(297)] Check failed: result. 
+Backtrace:
+	GetHandleVerifier [0x6FD2A3D7+98839]
+	QWebEngineUrlSchemeHandler::qt_static_metacall [0x6FCD8AE7+4583]
+	GetHandleVerifier [0x6FF9F17D+2674621]
+	QWebEngineUrlRequestJob::qt_static_metacall [0x6FCC39A3+3670595]
+	QtWebEngineCore::WebContentsAdapter::webContents [0x6F7A22F3+14499]
+	QtWebEngineCore::WebContentsAdapter::webContents [0x6F7A25AB+15195]
+	QtWebEngineCore::BrowserContextAdapter::defaultContext [0x6F7616AF+15]
+	QWebEngineProfile::defaultProfile [0x6EE3A7A3+83]
+	LomoxAppRun [0x754F3855+21]
+	(No symbol) [0x011A100F]
+	(No symbol) [0x011A11DE]
+	BaseThreadInitThunk [0x75F233CA+18]
+	RtlInitializeExceptionChain [0x77CA9ED2+99]
+	RtlInitializeExceptionChain [0x77CA9EA5+54]
+
+[0719/155241.063:ERROR:icu_util.cc(178)] Invalid file descriptor to ICU data received.
+[0719/155241.063:FATAL:icu_util.cc(297)] Check failed: result. 
+Backtrace:
+	GetHandleVerifier [0x6FB6A3D7+98839]
+	QWebEngineUrlSchemeHandler::qt_static_metacall [0x6FB18AE7+4583]
+	GetHandleVerifier [0x6FDDF17D+2674621]
+	QWebEngineUrlRequestJob::qt_static_metacall [0x6FB039A3+3670595]
+	QtWebEngineCore::WebContentsAdapter::webContents [0x6F5E22F3+14499]
+	QtWebEngineCore::WebContentsAdapter::webContents [0x6F5E25AB+15195]
+	QtWebEngineCore::BrowserContextAdapter::defaultContext [0x6F5A16AF+15]
+	QWebEngineProfile::defaultProfile [0x6EE6A7A3+83]
+	LomoxAppRun [0x75423855+21]
+	(No symbol) [0x011D100F]
+	(No symbol) [0x011D11DE]
+	BaseThreadInitThunk [0x75F233CA+18]
+	RtlInitializeExceptionChain [0x77CA9ED2+99]
+	RtlInitializeExceptionChain [0x77CA9EA5+54]
+
+[0719/160032.369:ERROR:icu_util.cc(178)] Invalid file descriptor to ICU data received.
+[0719/160032.369:FATAL:icu_util.cc(297)] Check failed: result. 
+Backtrace:
+	GetHandleVerifier [0x6FB6A3D7+98839]
+	QWebEngineUrlSchemeHandler::qt_static_metacall [0x6FB18AE7+4583]
+	GetHandleVerifier [0x6FDDF17D+2674621]
+	QWebEngineUrlRequestJob::qt_static_metacall [0x6FB039A3+3670595]
+	QtWebEngineCore::WebContentsAdapter::webContents [0x6F5E22F3+14499]
+	QtWebEngineCore::WebContentsAdapter::webContents [0x6F5E25AB+15195]
+	QtWebEngineCore::BrowserContextAdapter::defaultContext [0x6F5A16AF+15]
+	QWebEngineProfile::defaultProfile [0x6EE6A7A3+83]
+	LomoxAppRun [0x75423855+21]
+	(No symbol) [0x00E4100F]
+	(No symbol) [0x00E411DE]
+	BaseThreadInitThunk [0x75F233CA+18]
+	RtlInitializeExceptionChain [0x77CA9ED2+99]
+	RtlInitializeExceptionChain [0x77CA9EA5+54]
+
+[0719/160052.105:ERROR:resource_bundle.cc(759)] Failed to load C:\Users\KeoJam\.LomoxWebApp\qtwebengine_resources.pak
+Some features may not be available.
+[0719/160052.105:ERROR:resource_bundle.cc(759)] Failed to load C:\Users\KeoJam\.LomoxWebApp\qtwebengine_resources_100p.pak
+Some features may not be available.
+[0719/160052.105:ERROR:resource_bundle.cc(759)] Failed to load C:\Users\KeoJam\.LomoxWebApp\qtwebengine_resources_200p.pak
+Some features may not be available.
+[0719/160059.530:ERROR:resource_bundle.cc(759)] Failed to load C:\Users\KeoJam\.LomoxWebApp\qtwebengine_resources.pak
+Some features may not be available.
+[0719/160059.530:ERROR:resource_bundle.cc(759)] Failed to load C:\Users\KeoJam\.LomoxWebApp\qtwebengine_resources_100p.pak
+Some features may not be available.
+[0719/160059.530:ERROR:resource_bundle.cc(759)] Failed to load C:\Users\KeoJam\.LomoxWebApp\qtwebengine_resources_200p.pak
+Some features may not be available.
