@@ -1,7 +1,9 @@
 # LomoX 2 -- Learn LomoX 
 
 ### 当前Demo
-* lomox-01-hello-react 
+* lomox-01-hello-react   
+![lomox-01-hello-react screenshot](screenshot/learn_lomox_01_hello_react.png)
+
 
 ### 支持的操作系统
 Win7以上系统，原因QT5.9已经不支持XP了。
